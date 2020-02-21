@@ -1,0 +1,10 @@
+CPU:processor
+get:accept
+take:acquire
+obtain:secure
+purchase:buy
+deny:negative
+reject:refuse
+ignore:forget
+talk:lecture
+silence:peace

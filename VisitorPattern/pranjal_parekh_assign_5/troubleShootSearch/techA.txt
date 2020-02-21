@@ -1,0 +1,8 @@
+Debian has a problem detecting the drive
+consider validating Search seedlists to help you identify the source of the problem
+configure settings caused by long response times from the Search application
+PC settings and a reinitialization to the factory default state of the device
+When the local area connection Properties window appears,scroll to the bottom of the list
+a very short recording will capture and display enough information
+One of the most common fixes to a problem is to try to restart your device
+use the hibernate feature offer instead of powering off your machine
